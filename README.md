@@ -1,0 +1,2 @@
+NeteaseCloudMusicApi文件夹内容为后台服务器以及相关接口信息文件，通过node启动即可。
+使用github下载：git clone git@github.com:Binaryify/NeteaseCloudMusicApi.git
